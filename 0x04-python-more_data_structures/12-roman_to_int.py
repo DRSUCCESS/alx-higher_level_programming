@@ -15,11 +15,3 @@ def roman_to_int(roman_string):
         prev_value = value
 
     return result
-
-print(roman_to_int("III"))
-print(roman_to_int("IV"))
-print(roman_to_int("IX"))
-print(roman_to_int("LVIII"))
-print(roman_to_int("MCMXCIV"))
-print(roman_to_int(""))
-print(roman_to_int(None))
