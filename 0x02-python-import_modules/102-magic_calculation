@@ -1,0 +1,4 @@
+8. ByteCode -> Python #3
+#advanced
+Score: 0.0% (Checks completed: 0.0%)
+Write the Python function def magic_calculation(a, b): that does exactly the same as the following Python bytecode:
