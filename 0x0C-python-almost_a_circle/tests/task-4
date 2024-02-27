@@ -1,0 +1,3 @@
+4. Area first
+mandatory
+Update the class Rectangle by adding the public method def area(self): that returns the area value of the Rectangle instance.
